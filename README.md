@@ -10,4 +10,4 @@ Developed By -
 Pranav Sarda
 
 Demo - 
-![Alt text](/demo.gif?raw=true "Demo")
+![Alt text](/demp.gif?raw=true "Demo")
