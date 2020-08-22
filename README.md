@@ -1,5 +1,6 @@
 # India State Chooser Screen Flutter
- interactive cool UI of Indian Map to choose state/union territory
+ 
+ Interactive cool UI of Indian Map to choose state/union territory
 
 This project is replicating some parts of the concept from https://github.com/goforbg/ClickableMapView in flutter.
 
